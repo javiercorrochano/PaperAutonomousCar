@@ -11,7 +11,7 @@ The following content can be found in this repository:
 - 🎥 **Videos** : In this folder there are documents with references to the project's videos (hosted on YouTube).
 
     - Video3.md 		(system operation)
-    - Video4.md		(tolerance to noise)
+    - Video4.md		(training the autoencoder; Influence of noise)
     - Video5.md		(autonomous driving)
     - Video6.md		(additional tests)
     - Video7.md		(alternative road)
