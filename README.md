@@ -1,4 +1,4 @@
-# Improving Autonomous Driving Learning based on Chroma Key and Augmented Image Techniques
+# Lane Following Learning based on Semantic Segmentation with Chroma Key and Image Superposition
 
 ## Authors ✒️
 
